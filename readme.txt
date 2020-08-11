@@ -1,1 +1,1 @@
-Please unpack demo\Content\pak.rar
+Please unpack pak.rar and put it in demo\Content\
